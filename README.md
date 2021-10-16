@@ -2,7 +2,7 @@
 Files for DATA201 Project
 
 # Member
-Henry Turner - htu18
-Jack Ryan - jwr87
-Andy Kevin Lunt - alu53
-Tawatchai (Andy) Holmes - tho78
+> Henry Turner - **htu18**
+> Jack Ryan - **jwr87**
+> Andy Kevin Lunt - **alu53**
+> Tawatchai (Andy) Holmes - **tho78**
